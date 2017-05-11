@@ -265,7 +265,7 @@ a:hover, a:focus {
 .content-section {
   padding-top: 100px;
   background-color: white;
-  color: blackcccccc`;
+  color: black;
   font-family: "Source Sans Pro";
 }
 
@@ -334,7 +334,7 @@ footer {
 footer p {
   margin: 0;
   color: black;
-  font-family: Serif;
+  font-family: "Source Sans Pro", sans-serif, Arial;
 }
 
 .h2-contact {
